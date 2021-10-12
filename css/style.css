@@ -1,0 +1,9 @@
+body{
+    font-family: roboto !important;
+}
+.Arrow{
+    cursor: pointer;
+}
+.Slide{
+    display: none;
+}
