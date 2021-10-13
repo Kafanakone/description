@@ -7,3 +7,17 @@ body{
 .Slide{
     display: none;
 }
+.bg-warning{
+    background-color: #F2E205 !important;
+}
+.bg-warning2{
+    background-color: #A69C14 !important;
+}
+a{
+    color: black;
+    font-weight: bold;
+}
+a:hover{
+    text-decoration: none;
+    color: #000;
+}
